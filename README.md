@@ -20,8 +20,7 @@ This Android application demonstrates fetching, sorting, and displaying data fro
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/yourprojectname.git
-
+   git clone https://github.com/MMN0001/Fetch-test.git
 2. Open the project in Android Studio.
 
 3. Ensure the SDK is set up correctly and that you've installed API Level 34 components.
